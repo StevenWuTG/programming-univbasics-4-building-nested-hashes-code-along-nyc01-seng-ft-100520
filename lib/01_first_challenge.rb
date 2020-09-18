@@ -7,6 +7,6 @@ def first_challenge
      }
      }
    }
-     :capulet => {}
+   :capulet => {}
    }
 end
